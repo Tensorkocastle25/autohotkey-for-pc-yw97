@@ -1,4 +1,4 @@
-# 
+# Enhance AutoHotkey for PC | AutoHotkey for Windows with smart AutoHotkey for PC | AutoHotkey for Windows Plugin | keyboard-shortcuts + file-lock, the #1 plugin. Includes
 
 
 
